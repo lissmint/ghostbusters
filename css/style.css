@@ -147,8 +147,6 @@ body {
 .trailer-btn-icon {
   margin-right: 14px;
 }
-.film-description {
-}
 .film-title {
   font-style: normal;
   font-weight: 900;
@@ -193,10 +191,6 @@ body {
   width: 100px;
   vertical-align: top;
 }
-.about-text-regular {
-}
-.right-side {
-}
 
 .film-rating {
   display: flex;
@@ -211,8 +205,6 @@ body {
   color: #5671f6;
   border-radius: 10px;
   border: 1px solid #5671f6;
-}
-.rating-text {
 }
 .rating-title {
   margin-top: 0;
@@ -285,8 +277,6 @@ body {
   object-fit: cover;
   border-radius: 50%;
   margin-right: 20px;
-}
-.card-text {
 }
 .name {
   margin-top: 0px;
